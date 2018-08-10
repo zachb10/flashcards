@@ -6,11 +6,12 @@ python3 flashcards.py example_flashcards.txt
 
 # How to Make Flashcards
 Use this format to make the text flash card text file:
-[Q]: \<question\>
+
+\[Q\]: \<question\>
 
 \<answer\>
 
-[Q]: \<question\>
+\[Q\]: \<question\>
 
 \<answer\>
 
