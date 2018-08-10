@@ -27,9 +27,11 @@ qa_dict = {}
 for x in range(0, len(questions)):
 	qa_dict[questions[x]] = answers[x]
 
+'''
 # Print keys and values of qa_dict
 for entry in qa_dict:
 	print(entry, qa_dict[entry])
+'''
 
 # Quiz the user
 correct = 0
